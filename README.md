@@ -1,6 +1,7 @@
 # ECOApp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Interfaz de usuario para la visualización de datos recogidos por sensores externos (temperatura, humedad, velocidad y dirección del viento)
 
 ## Available Scripts
 
