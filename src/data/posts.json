@@ -1,0 +1,50 @@
+[
+    {
+      "name": "s1",
+      "temp": 15,
+      "hum": 56,
+      "vel": 24,
+      "viento": "oeste"
+    },
+    {
+        "name": "s2",
+        "temp": 23,
+        "hum": 78,
+        "vel": 20,
+        "viento": "sureste"
+    },
+    
+    {
+        "name": "s3",
+        "temp": 40,
+        "hum": 40,
+        "vel": 24,
+        "viento": "este"
+    },
+
+    {
+        "name": "s4",
+        "temp": 28,
+        "hum": 36,
+        "vel": 70,
+        "viento": "noroeste"
+    },
+
+    {
+        "name": "s5",
+        "temp": 33,
+        "hum": 28,
+        "vel": 20,
+        "viento": "sur"
+    },
+
+    {
+        "name": "s6",
+        "temp": 18,
+        "hum": 87,
+        "vel": 20,
+        "viento": "norte"
+    }
+    
+  ]
+  
